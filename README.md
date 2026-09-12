@@ -16,7 +16,7 @@ A web-based ordering and real-time order tracking platform designed to streamlin
 * *Design Quality & Pattern Lead:* Eduardo Fajardo Jr.
 * *Architecture & DevOps Lead:* Eduardo Fajardo
 * *Developer(s):* Eduardo Fajardo Jr C.
-* *QA / Code Reviewer:* Eduardo Fajardo
+* *QA / Code Reviewer:* Bangayan, Karis Johanne L.
 
 ## Planned Technology Stack
 * *Frontend:* HTML5, CSS3, JavaScript / React Dashboard
